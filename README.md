@@ -1,5 +1,3 @@
-## Shoes Size Convert
-
 ### Women's Size
 
 |KOREA |JAPAN	|USA	|UK	|Europe|
